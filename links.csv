@@ -1,0 +1,71 @@
+source,target,value
+(hu)MANid,Ancestry,1
+(hu)MANid,Sex,1
+3D-ID,Ancestry,1
+3D-ID,Sex,1
+3Skull,Data Analysis,1
+ADBOU,Age,1
+AFA3D,Craniofacial,1
+AncesTrees,Ancestry,1
+BodyPlot,Body Proportion,1
+CADOES,Sex,1
+CMP,Comparison,1
+COLIPR,Sex,1
+CoRA,Data Analysis,1
+CRANID,Ancestry,1
+Digital Bone Age Companion,Age,1
+DSP,Sex,1
+DSP2,Sex,1
+DXAGE,Age,1
+EasyECD,Craniofacial,1
+ForAge,Age,1
+Fordisc,Sex,1
+Fordisc,Ancestry,1
+Fordisc,Body Proportion,1
+Fragmento,Commingled,1
+hefneR,Ancestry,1
+Isolocate,Comparison,1
+KidStats,Age,1
+KidStats,Sex,1
+KScollect,Data Analysis,1
+MassReg,Body Proportion,1
+MorphoPASSE,Sex,1
+OdontoSearch,Comparison,1
+Optosearch,Comparison,1
+OsteoSort,Commingled,1
+Osteoware,Data Analysis,1
+PerspectiveX,Craniofacial,1
+QA3D,Data Analysis,1
+QuickCapture,Data Analysis,1
+rASUDAS,Ancestry,1
+Raxter,Body Proportion,1
+RDFBones,Data Analysis,1
+REFACE,Craniofacial,1
+SeuPF,Sex,1
+Skelet-o-matic,Data Analysis,1
+SkullProfiler,Ancestry,1
+SkullProfiler,Sex,1
+SkullXtremes,Ancestry,1
+SkullXtremes,Sex,1
+SPINNE,Body Proportion,1
+SSAGE,Age,1
+TDStats,Craniofacial,1
+TraumaVision,Data Analysis,1
+WebFAIS,Craniofacial,1
+ZTM,Commingled,1
+Ancestry,Forensic Anthropology,1
+Sex,Forensic Anthropology,1
+Age,Forensic Anthropology,1
+Comparison,Forensic Anthropology,1
+Commingled,Forensic Anthropology,1
+Data Analysis,Forensic Anthropology,1
+Craniofacial,Forensic Anthropology,1
+Body Proportion,Forensic Anthropology,1
+Forensic Anthropology,Ancestry,1
+Forensic Anthropology,Sex,1
+Forensic Anthropology,Age,1
+Forensic Anthropology,Comparison,1
+Forensic Anthropology,Commingled,1
+Forensic Anthropology,Data Analysis,1
+Forensic Anthropology,Craniofacial,1
+Forensic Anthropology,Body Proportion,1

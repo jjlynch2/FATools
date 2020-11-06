@@ -1,0 +1,57 @@
+name,group1,group2,group3,size
+(hu)MANid,R,Closed,None,1
+3D-ID,Java,Closed,EULA,1
+3Skull,Delphi,Closed,EULA,1
+ADBOU,Delphi,Closed,EULA,1
+AFA3D,R/C++,Closed,EULA,1
+AncesTrees,R,Closed,None,1
+BodyPlot,R,Open,GPLv2,1
+CADOES,R,Closed,None,1
+CMP,R/Python,Closed,,1
+COLIPR,,Closed,,1
+CoRA,php,Open,MIT,1
+CRANID,QB64,Closed,None,1
+Digital Bone Age Companion,,Closed,EULA,1
+DSP,R,Closed,None,1
+DSP2,R,Closed,None,1
+DXAGE,R,Closed,None,1
+EasyECD,R,Open,GPLv2,1
+ForAge,Java,Open,Apache version 2.0,1
+Fordisc,Delphi,Closed,EULA,1
+Fragmento,C++,Closed,EULA,1
+hefneR,R,Closed,None,1
+Isolocate,R,Closed,None,1
+KidStats,R,Open,None,1
+KScollect,R,Open,None,1
+MassReg,R,Closed,None,1
+MorphoPASSE,R,Closed,,1
+OdontoSearch,php,Closed,None,1
+Optosearch,R,Closed,None,1
+OsteoSort,R/Julia/VB,Open,GPLv2,1
+Osteoware,Delphi,Closed,EULA,1
+PerspectiveX,R,Open,GPLv2,1
+QA3D,R/Julia/VB,Open,GPLv2,1
+QuickCapture,R,Open,GPLv2,1
+rASUDAS,R,Closed,None,1
+Raxter,R,Closed,None,1
+RDFBones,OWL,Open,BSD,1
+REFACE,Tcl/tk,Closed,,1
+SeuPF,R,Closed,None,1
+Skelet-o-matic,VBA,Open,GPLv2,1
+SkullProfiler,R,Open,GPLv2,1
+SkullXtremes,R,Open,GPLv2,1
+SPINNE,R,Closed,None,1
+SSAGE,R,Closed,None,1
+TDStats,R,Open,GPLv2,1
+TraumaVision,R,Open,GPLv2,1
+WebFAIS,C++,Closed,EULA,1
+ZTM,C++,Open,MIT,1
+Ancestry,Category,Category,Category,9
+Sex,Category,Category,Category,13
+Age,Category,Category,Category,7
+Comparison,Category,Category,Category,4
+Commingled,Category,Category,Category,3
+Data Analysis,Category,Category,Category,11
+Craniofacial,Category,Category,Category,7
+Body Proportion,Category,Category,Category,5
+Forensic Anthropology,Category,Category,Category,8
