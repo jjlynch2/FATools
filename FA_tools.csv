@@ -1,0 +1,48 @@
+Tool,Programming Language,Source Code,License,Category
+(hu)MANid,R,Closed,None,Ancestry/Sex
+3D-ID,Java,Closed,EULA,Ancestry/Sex
+3Skull,Delphi,Closed,EULA,Data Analysis
+ADBOU,Delphi,Closed,EULA,Age
+AFA3D,R/C++,Closed,EULA,Craniofacial
+AncesTrees,R,Closed,None,Ancestry
+BodyPlot,R,Open,GPLv2,Body Proportion
+CADOES,R,Closed,None,Sex
+CMP,R/Python,Closed,,Comparison
+COLIPR,,Closed,,Sex
+CoRA,php,Open,MIT,Data Analysis
+CRANID,QB64,Closed,None,Ancestry
+Digital Bone Age Companion,,Closed,EULA,Age
+DSP,R,Closed,None,Sex
+DSP2,R,Closed,None,Sex
+DXAGE,R,Closed,None,Age
+EasyECD,R,Open,GPLv2,Craniofacial
+ForAge,Java,Open,Apache version 2.0,Age
+Fordisc,Delphi,Closed,EULA,Sex/Ancestry/Body Proportion
+Fragmento,C++,Closed,EULA,Commingled
+hefneR,R,Closed,None,Ancestry
+Isolocate,R,Closed,None,Comparison
+KidStats,R,Open,None,Age/Sex
+KScollect,R,Open,None,Data Analysis
+MassReg,R,Closed,None,Body Proportion
+MorphoPASSE,R,Closed,,Sex
+OdontoSearch,php,Closed,None,Comparison
+Optosearch,R,Closed,None,Comparison
+OsteoSort,R/Julia/VB,Open,GPLv2,Commingled
+Osteoware,Delphi,Closed,EULA,Data Analysis
+PerspectiveX,R,Open,GPLv2,Craniofacial
+QA3D,R/Julia/VB,Open,GPLv2,Data Analysis
+QuickCapture,R,Open,GPLv2,Data Analysis
+rASUDAS,R,Closed,None,Ancestry
+Raxter,R,Closed,None,Body Proportion
+RDFBones,OWL,Open,BSD,Data Analysis
+REFACE,Tcl/tk,Closed,,Craniofacial
+SeuPF,R,Closed,None,Sex
+Skelet-o-matic,VBA,Open,GPLv2,Data Analysis
+SkullProfiler,R,Open,GPLv2,Ancestry/Sex
+SkullXtremes,R,Open,GPLv2,Ancestry/Sex
+SPINNE,R,Closed,None,Body Proportion
+SSAGE,R,Closed,None,Age
+TDStats,R,Open,GPLv2,Craniofacial
+TraumaVision,R,Open,GPLv2,Data Analysis
+WebFAIS,C++,Closed,EULA,Craniofacial
+ZTM,C++,Open,MIT,Commingled
